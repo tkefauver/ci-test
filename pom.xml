@@ -22,4 +22,21 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+
+<contributors>
+    <contributor>
+      <name>Thomas Kefauver</name>
+      <email>tkefauver@gmail.com</email>
+      <url>http://thomaskefauver.com</url>
+      <organization>Thomas Kefauver</organization>
+      <organizationUrl>http://thomaskefauver.com</organizationUrl>
+      <roles>
+        <role>tester</role>
+      </roles>
+      <timezone>America/Vancouver</timezone>
+      <properties>
+        <gtalk>tkefauver@gmail.com</gtalk>
+      </properties>
+    </contributor>
+  </contributors>
 </project>
